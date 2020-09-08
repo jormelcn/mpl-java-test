@@ -4,4 +4,9 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  <context-param>  
+	   <param-name>json-file-path</param-name> 
+	   <param-value>/tmp/mpl-test.json</param-value>
+	   <description>Location to store json file</description> 
+	</context-param>
 </web-app>
