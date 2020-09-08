@@ -6,7 +6,7 @@ Este proyecto simula una página web de inicio de sesión
 
 [http://35.227.25.188:8080/mpl-java-test/iniciar-sesion.jsp](http://35.227.25.188:8080/mpl-java-test/iniciar-sesion.jsp)
 
-#### Puede acceder al archivo JSON generado en la siguiente direccion:
+#### Puede acceder al archivo JSON generado en la siguiente dirección:
 
 [http://35.227.25.188:8080/mpl-java-test/datos-json.jsp](http://35.227.25.188:8080/mpl-java-test/datos-json.jsp)
 
